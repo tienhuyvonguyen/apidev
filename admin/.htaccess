@@ -1,0 +1,11 @@
+DirectoryIndex index.php
+<IfModule php5_module>
+    php_flag session.cookie_httponly on
+</IfModule>
+<IfModule mod_env.c>
+    SetEnv RECAPTCHA_SECRET_KEY 6LcxVSsjAAAAAGs-Ggs2uLLqk9ZCNK-P9fxfJmvY
+    SetEnv DB_HOST mysql-server
+    SetEnv DB_NAME webapp
+    SetEnv DB_USER root
+    SetEnv DB_PASS secret
+</IfModule>

@@ -1,0 +1,7 @@
+{
+    "require": {
+        "zircote/swagger-php": "^4.7",
+        "firebase/php-jwt": "^6.4",
+        "laminas/laminas-config": "^3.5.0"
+    }
+}
