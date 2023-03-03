@@ -21,7 +21,7 @@
         + for admin panel: http://localhost:9090
             - username: admin
             - password: admin
-            - NOTE: run this command before access admin panel: docker exec -it webapp-web-server-1 bash /root/config.sh ( still improving )
+            - NOTE: run this command before access admin panel ( still improving ): docker exec -it apidev-web-server-1 bash /root/config.sh
 * Funtions 
     - Login
     - Register
