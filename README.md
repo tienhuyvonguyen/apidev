@@ -1,5 +1,6 @@
 # simpleWebapp project 
 
+* Adopt from webapp repo
 * Visit website at https://huyvo.tech hosted on Google Cloud Platform & Cloudflare proxy, pending cloudflare WAF ( under maintenant )
 * Synk, Solatint security for vuln and code quality check
 * SSL cerrtificate for https connection provided by zeroSSL & report at: https://www.ssllabs.com/ssltest/analyze.html?d=huyvo.tech&s=35.240.219.228
